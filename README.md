@@ -98,3 +98,5 @@ After several hits and tries, I obtained a best $f_1$ score of 0.8949 for this p
 ![](leaderboard.PNG)
 
 *fastai* is quite good and without much external preprocessing, I could comfortably manage to get a decent enough $f_1$ score. It's easy to use, convenient and also takes less time i.e. it's quite fast.
+
+[Here's the link](https://colab.research.google.com/drive/1COJjFgRWI72Xt5JKmZaD9Z8qM7QTPDrq) to the Google Colab notebook I used to train the model FYR.
